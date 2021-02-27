@@ -1,4 +1,4 @@
-=======
+##=======
 import sys
 
 import settings
@@ -82,4 +82,4 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> davidsucks
+##>>>>>>> davidsucks
