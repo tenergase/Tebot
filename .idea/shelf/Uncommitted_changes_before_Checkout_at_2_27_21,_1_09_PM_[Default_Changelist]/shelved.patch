@@ -1,0 +1,15 @@
+Index: notes.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>gsfgghjdhgsdf pp
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/notes.txt b/notes.txt
+--- a/notes.txt	(revision 201e235cd4c008c8b86d8ecf1992e9cb369f648e)
++++ b/notes.txt	(date 1614452234314)
+@@ -1,1 +1,1 @@
+-gsfgghjdhgsdf pp
+\ No newline at end of file
++gsfgghjdh
+\ No newline at end of file
